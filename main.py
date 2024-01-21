@@ -1,3 +1,4 @@
+#required dependencies
 import discord
 from discord.ext import commands
 
@@ -13,4 +14,4 @@ async def on_ready():
 async def hello(ctx):
     await ctx.send('Hello! I am a test bot')
 
-client.run('MTE5ODcwMDU4MTk1NTU2NzYzNw.GvpzH_.GyF5QReIeAUMO8fhHETzGvHMdU0Fz7leOqe7-Y')
+client.run('MTE5ODcwMDU4MTk1NTU2NzYzNw.G9Uqfd.Wca4vjRgC4vRS0h2PUFoHG3VqN9_0FmsbZ-e5g')
